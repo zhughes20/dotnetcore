@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zhugh_000\\Documents\\Projects\\winformexample\\winformexample.csproj": {}
+    "C:\\Users\\zhugh_000\\Documents\\Projects\\Windows Form Example\\dotnetcore\\dotnetcore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zhugh_000\\Documents\\Projects\\winformexample\\winformexample.csproj": {
+    "C:\\Users\\zhugh_000\\Documents\\Projects\\Windows Form Example\\dotnetcore\\dotnetcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zhugh_000\\Documents\\Projects\\winformexample\\winformexample.csproj",
-        "projectName": "winformexample",
-        "projectPath": "C:\\Users\\zhugh_000\\Documents\\Projects\\winformexample\\winformexample.csproj",
+        "projectUniqueName": "C:\\Users\\zhugh_000\\Documents\\Projects\\Windows Form Example\\dotnetcore\\dotnetcore.csproj",
+        "projectName": "dotnetcore",
+        "projectPath": "C:\\Users\\zhugh_000\\Documents\\Projects\\Windows Form Example\\dotnetcore\\dotnetcore.csproj",
         "packagesPath": "C:\\Users\\zhugh_000\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zhugh_000\\Documents\\Projects\\winformexample\\obj\\",
+        "outputPath": "C:\\Users\\zhugh_000\\Documents\\Projects\\Windows Form Example\\dotnetcore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
